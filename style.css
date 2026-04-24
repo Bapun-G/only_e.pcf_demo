@@ -3,3 +3,60 @@
     padding: 0;
     font: bold;
 }
+h5{
+    font-size: 5rem;
+    text-align: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background: #FFADAD;
+   
+    font-weight: bold;
+    /* color: #fafafa; */
+
+}
+.login{
+    background: #FDFFB6;
+    display: flex;
+    width: 40%;
+    height: 40%;
+    padding: 2rem;
+    border-radius: 1rem;
+    position: relative;
+    top: 4rem;
+    
+    
+}
+#forget{
+    margin-top: 2rem;
+    margin-left: 4rem;
+    font-size: -2rem;
+}
+#fullName{
+    margin-top:3rem ;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-align: center;
+    background: #DEDAF4;
+    color: #080b20;
+    
+}
+#GID{
+text-align: center;
+margin: 2px;
+background: #DEDAF4;
+color: #080b20;
+}
+#submit{
+    padding: 0 1rem;
+    background: #0ca243;
+    color: #fafafa;
+    margin-left: 2.4rem;
+}
