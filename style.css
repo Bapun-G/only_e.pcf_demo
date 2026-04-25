@@ -60,3 +60,9 @@ color: #080b20;
     color: #fafafa;
     margin-left: 2.4rem;
 }
+#message{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+  
+}
